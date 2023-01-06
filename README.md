@@ -3,7 +3,7 @@
   ![badge](https://img.shields.io/badge/license-None-orange)<br />
 
   ## Description
-  create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file
+  Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file
 
   ## Table of Contents
   - [Description](#description)
@@ -55,7 +55,8 @@
 
 
   ## Screenshot
-  undefined
+  <img width="1440" alt="Screenshot 2023-01-05 at 14 17 47" src="https://user-images.githubusercontent.com/113846649/210931877-21367bea-22be-458d-8cd7-6076205ae957.png">
+
 
   ## Questions
   Contact Me<br />
